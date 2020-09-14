@@ -3,7 +3,7 @@
 
 In this project we are providing a low cost but a secure system to unlock your car.
 
-Steps:
+#### Work in Action:
 1. Run the code 'Create DataSet' on Python with OpenCV library installed.
 2. Run the code 'Training Dataset'.
 3. Run the code 'Face Recog' to finally see the output.
